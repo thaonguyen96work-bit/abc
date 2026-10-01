@@ -1,0 +1,14 @@
+body {
+  background-color: #151937;
+  color: white;
+}
+
+.text-gradient {
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-image: linear-gradient(to right, purple, pink);
+}
+
+.btn-gradient {
+  background-image: linear-gradient(to right, purple, pink);
+}
